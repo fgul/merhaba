@@ -1,3 +1,3 @@
 <?php
-echo "MErhaba";
+echo "Merhaba Pislik";
 ?>
